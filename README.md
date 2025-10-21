@@ -12,6 +12,14 @@
 - 🛡️ Passionate about **governance, security, and multi-environment cloud design**  
 - 🤝 Open to **freelance, solution architect, and cloud transformation** opportunities (Remote / India / Middle East / Africa)
 
+## 🏆 Highlights
+
+- ☁️ Designed and deployed **20+ enterprise-grade Azure infrastructures** using Terraform & Infrastructure as Code (IaC)
+- 🛠️ Implemented **end-to-end CI/CD pipelines** with GitHub Actions and Azure DevOps for global enterprise clients
+- 🔐 Delivered **secure, policy-driven Azure Landing Zones** aligned with Microsoft's Cloud Adoption Framework (CAF)
+- ☸️ Architected **AKS-based microservices platforms** with automated scaling, logging, and RBAC integration
+- 🧠 Expert in **Terraform, Azure AD, Networking, Governance, and DevSecOps** best practices
+
 ---
 
 ## 🏗️ Featured Projects
