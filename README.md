@@ -36,7 +36,7 @@
 
 | Category | Tools & Platforms |
 |----------|--------------------|
-| ☁️ Cloud | Microsoft Azure |
+| ☁️ Cloud | Microsoft Azure, Nutanix, AWS |
 | 🧱 IaC | Terraform, ARM, Bicep |
 | 🔁 CI/CD | GitHub Actions, Azure DevOps |
 | ☸️ Containers | Docker, Kubernetes (AKS) |
