@@ -29,7 +29,7 @@
 | 🚀 [Enterprise AKS DevOps Platform](https://github.com/sudhir81/LandingZone_Dev_PreProd_Prod) | Multi-env Azure Landing Zone with CI/CD & Monitoring | Terraform, AKS, GitHub Actions |
 | 🛡️ [Azure Governance Blueprint](https://github.com/sudhir81/Azure-Landing-Zone-End-to-End-IaC-Deployment) | Policy-as-Code, RBAC, compliance automation | Azure Policy, Terraform, RBAC |
 | 🔐 [DevSecOps Pipeline](https://github.com/sudhir81/aks-devops-platform) | Secure IaC with Checkov, OPA, TFLint, and CI/CD | Terraform, DevSecOps, GitHub Actions 
-| ⚙️ DevSecOps Infrastructure Pipeline (Terraform + Checkov + OPA) *(Coming Soon)*
+| ⚙️ [Iac Code to Secure Code]([https://github.com/sudhir81/aks-devops-platform](https://github.com/sudhir81/enterprise-devsecops-pipeline) | 🔹 Security & compliance validation via Checkov and OPA Rego policies | 🔐 Security: Checkov, Open Policy Agent (OPA)
 ---
 
 ## 🛠️ Tech Stack
